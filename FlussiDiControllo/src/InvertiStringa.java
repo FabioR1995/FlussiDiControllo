@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class InvertiStringa {
-
+ //programma che crea una stringa inversa
 	public static void main(String[] args) {
 		String parola;
 		String inversa ="";
