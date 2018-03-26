@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class mediaGeometrica {
+public class MediaGeometrica {
 
 	public static void main(String[] args) {
 		double prodottoNumero = 1;
